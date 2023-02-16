@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="+n!73Mq*-8FuYiK:Vq:I">sprite</variable></variables><block type="device_show_leds" id="7RJ^Lw:?w8YDE}~@Zq!L" disabled="true" x="-11" y="-439"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="game_turn_sprite" id="XfHA~^;HcTKCnS=Ee~rz" disabled="true" x="0" y="0"><field name="direction">Direction.Right</field><value name="sprite"><block type="variables_get" id="`LsN}moPkJKM*^nZ60S_" disabled="true"><field name="VAR" id="+n!73Mq*-8FuYiK:Vq:I">sprite</field></block></value><value name="degrees"><shadow type="math_number" id="?XdYZQHwumJ(=pd*@~6n" disabled="true"><field name="NUM">45</field></shadow></value></block></xml>
